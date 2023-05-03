@@ -2,10 +2,6 @@
   Hello! I'm Brian 😊
 </div>
 <br>
-<div id="header" align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brianhitchin)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-<br>   
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/brian-hitchin-940b57268/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
