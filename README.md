@@ -1,10 +1,9 @@
 <div id="intro" align="center">
-  Hello! I'm Brian 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hello! I'm Brian 😊
 </div>
 <br>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/Yfl7CS7vQqnebA69aH/giphy.gif" width="100"/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brianhitchin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  
 </div>
 <br>   
 <div id="badges" align="center">
@@ -30,8 +29,4 @@ I'm currently learning delving deeper into **react** and **flask**!
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  alt="CSS" width="30" height="30"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="30" height="30"/>
 
-<br>      
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brianhitchin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  
-  
 <div>
