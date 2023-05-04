@@ -13,7 +13,7 @@
 <div align="center">
 I'm a Full Stack Developer!
   
-I'm currently learning delving deeper into **react** and **flask**!
+I'm currently delving deeper into **react** and **flask**!
 
 🧰 I've learned... :
 
