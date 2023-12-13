@@ -24,5 +24,6 @@ I'm currently delving deeper into **react** and **flask**!
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="30px" width="30px" alt="HTML"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  alt="CSS" width="30" height="30"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="30" height="30"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/java-original.svg" alt="PostgreSQL" width="30" height="30"/>
   
 <div>
